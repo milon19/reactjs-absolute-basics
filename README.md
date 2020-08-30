@@ -1,5 +1,5 @@
 # React Absulate Basics
-This is an absulate basic project on react. This project covered:
+This is an absolute basic project on react. This project covered:
 
 <ul>
     <li>Create Component (Function based and Class based).</li>
